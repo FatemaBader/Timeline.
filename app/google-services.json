@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "223273884088",
+    "firebase_url": "https://timeline-bf0d5.firebaseio.com",
+    "project_id": "timeline-bf0d5",
+    "storage_bucket": "timeline-bf0d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223273884088:android:c374b3c7da672b2d",
+        "android_client_info": {
+          "package_name": "com.example.fatema.timelines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223273884088-84862tvpd6cv4c5dh2fbviinnvhipv6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fatema.timelines",
+            "certificate_hash": "637fe87ea3a996d3024e12093032cb6b3fadf6a3"
+          }
+        },
+        {
+          "client_id": "223273884088-tqj1b7abj67j2qh3mkn007jqb3gk84q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkRHHCQTfI-eeWNAprx9qr_J-xPveHsMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223273884088-tqj1b7abj67j2qh3mkn007jqb3gk84q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
